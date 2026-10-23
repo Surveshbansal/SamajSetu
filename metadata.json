@@ -1,0 +1,8 @@
+{
+  "name": "Remix SamajSetu - समाज सेतु",
+  "description": "अखिल भारतीय धानुक समाज संगठन, मध्य प्रदेश — जय महाराज धनक ऋषि, पदाधिकारी व सदस्य निर्देशिका, चौपाल व डिजिटल सहयोग।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
